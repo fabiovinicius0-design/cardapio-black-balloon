@@ -4,8 +4,8 @@ Cardápio online da Black Balloon Music Club (Botucatu-SP), no mesmo visual do c
 
 **Acesse:** https://fabiovinicius0-design.github.io/cardapio-black-balloon/
 
-- **Lado A:** carta de bebidas (cervejas, uísques, aperitivos, drinks prontos, vodkas, cachaças e sem álcool).
-- **Lado B:** drinks especiais e combos.
+- **Lado A:** drinks especiais e combos.
+- **Lado B:** carta de bebidas (cervejas, uísques, destilados, cachaças, drinks prontos, licores e aperitivos, espumante e sem álcool).
 - Ao tocar em um preço, o item entra numa lista que soma o total no próprio celular. Nada é enviado: o pedido continua sendo feito no bar.
 
 ## QR Code
