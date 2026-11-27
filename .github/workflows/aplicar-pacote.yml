@@ -1,0 +1,4 @@
+name: Aplicar pacote
+on: {push: {paths: ["para_subir_no_github.zip"]}, workflow_dispatch: {}}
+permissions: {contents: write}
+jobs: {unzip: {runs-on: ubuntu-latest, steps: [{uses: "actions/checkout@v4"}, {run: "unzip -o para_subir_no_github.zip && rm para_subir_no_github.zip && git config user.name github-actions && git config user.email actions@github.com && git add -A && git commit -m Atualiza-cardapio && git push"}]}}
